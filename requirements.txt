@@ -4,3 +4,4 @@ transformers[torch]
 torch
 datasets
 scikit-learn
+accelerate
