@@ -1,11 +1,6 @@
 streamlit
-pandas
-transformers[torch]
-torch
-datasets
-scikit-learn
 pytesseract
+opencv-python
+Pillow
 pdf2image
-convert-from-path
-tempfile
-accelerate
+numpy
