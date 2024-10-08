@@ -10,6 +10,7 @@ import os
 if not os.path.isfile('/usr/bin/tesseract'):
     os.system('sudo apt-get install tesseract-ocr')
     
+poppler_path = r'E:\New folder\poppler-24.09.0' 
 
 # Convert PDF to images
 def pdf_to_images(pdf_file):
