@@ -4,4 +4,5 @@ transformers[torch]
 torch
 datasets
 scikit-learn
+pytesseract
 accelerate
