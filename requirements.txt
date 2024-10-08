@@ -6,5 +6,6 @@ datasets
 scikit-learn
 pytesseract
 pdf2image
+convert-from-path
 tempfile
 accelerate
